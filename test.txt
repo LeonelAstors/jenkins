@@ -1,2 +1,3 @@
-Testing my Jenkins pipeline.
-Hope authentication works this time.
+mkdir workder
+echo "Astor and Sanders wokers" >> workerfile
+cat workerfile
